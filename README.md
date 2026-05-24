@@ -15,7 +15,7 @@ Sui supports interactive multi-turn conversation, rule-based user memory (name, 
 -  **Controllable generation**: temperature, top-k, top-p, repetition penalty
 -  **Consumer-grade hardware**: single RTX 4060, ~3.5 hours training, <6.5 GB VRAM
 -  **Batteries included**: full training, inference, and data preprocessing scripts
--  **Comprehensive technical report**: see [TECHNICAL_REPORT.md](TECHNICAL_REPORT.md)
+-  **Comprehensive technical report**: see [TECHNICAL_REPORT.docx](TECHNICAL_REPORT.docx)
 
 ---
 
@@ -32,7 +32,7 @@ Sui supports interactive multi-turn conversation, rule-based user memory (name, 
 ---
 
 ##  Project Structure
-```
+```bash
 mini-llm/
 ├── model/ # Model definition and configuration
 │ ├── model.py # MiniGPT implementation
@@ -105,7 +105,7 @@ Commands:
 | `best_model.pt` | ~180 MB | Best model weights (47M params, val loss 4.14) |
 | `my_tokenizer.model` / `.vocab` | ~1 MB | BPE tokenizer (vocab 32,000) |
 
-> Download from [Releases](https://github.com/yourname/yourrepo/releases) or via cloud drive (link in Release notes).
+> Download from [Releases](https://github.com/comreade-123/Sui-Ai/releases) or via cloud drive (link in Release notes).
 
 ---
 
