@@ -23,7 +23,7 @@ Sui supports interactive multi-turn conversation, rule-based user memory (name, 
 
 ### Training Progress
 ![Training Loss Curve](images/training.png)
-*Training and validation loss over 27,500 steps. Best validation loss: 4.14 at step ~21,000.*
+*The model training in progress. Training took ~3.5 hours on a single RTX 4060 before early stopping.*
 
 ### Example Conversations
 ![Example Conversations](images/chat_examples.png)
