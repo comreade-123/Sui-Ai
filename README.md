@@ -7,7 +7,7 @@ Sui supports interactive multi-turn conversation, rule-based user memory (name, 
 
 ---
 
-## ✨ Features
+##  Features
 
 -  **47M parameters**, Decoder-only Transformer (GPT-2 style), trained from random initialization
 -  **Fluent Chinese daily conversation** with basic knowledge recall
@@ -19,7 +19,7 @@ Sui supports interactive multi-turn conversation, rule-based user memory (name, 
 
 ---
 
-## 📸 Gallery
+##  Gallery
 
 ### Training Progress
 ![Training Loss Curve](images/training.png)
@@ -31,7 +31,7 @@ Sui supports interactive multi-turn conversation, rule-based user memory (name, 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 mini-llm/
 ├── model/ # Model definition and configuration
@@ -56,7 +56,7 @@ mini-llm/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Environment Setup
 
@@ -99,7 +99,7 @@ Commands:
 - `quit` / `exit` — End session
 - `/clear` — `Clear` conversation history and memory
 - `/memory` — `Display` stored user facts
-## 📥 Pretrained Weights
+##  Pretrained Weights
 
 | File | Size | Description |
 |------|------|-------------|
@@ -110,7 +110,7 @@ Commands:
 
 ---
 
-## 📖 Technical Documentation
+##  Technical Documentation
 
 Full technical details — including model architecture, training methodology, data pipeline, sampling algorithms, and evaluation — are available in **[TECHNICAL_REPORT.docx](TECHNICAL_REPORT.docx)**. It covers:
 
@@ -121,25 +121,31 @@ Full technical details — including model architecture, training methodology, d
 
 ---
 
-## 📜 Citation
+##  Citation
 
 If you find our project helpful and use the code or model from this project, please cite:
 
 ```bibtex
 @misc{sui2026,
-  author = {YQS2c},
+  author = {YQS2c and wojia-1110},
   title = {Sui: A 47M-Parameter Chinese Conversational Model Trained from Scratch},
   year = {2026},
   url = {https://github.com/comreade-123/Sui-Ai}
 }
 ```
-## 📄 License
+##  License
 - Code: MIT License
 - Model Weights: CC BY-NC 4.0 (non-commercial use only)
 
 ---
 
-## 🙏 Acknowledgments
+##  Contributors
+- [YQS2c] – Lead developer, model architecture, training, data pipeline
+- [wojia-1110] – Data provided, Data preprocessing, evaluation, documentation
+
+---
+
+##  Acknowledgments
 - Training data from LCCC and Skywork/SkyPile-150B
 - Model architecture inspired by nanoGPT and GPT-2
 - Thanks to NVIDIA RTX 4060 for stable training runs
