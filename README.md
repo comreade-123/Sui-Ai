@@ -123,7 +123,7 @@ Full technical details — including model architecture, training methodology, d
 
 ## 📜 Citation
 
-If you use this project's code or model, please cite:
+If you find our project helpful and use the code or model from this project, please cite:
 
 ```bibtex
 @misc{sui2026,
