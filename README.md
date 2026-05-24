@@ -75,7 +75,7 @@ Sui was trained on a mixture of two public datasets:
 | [LCCC-base](https://github.com/thu-coai/CDial-GPT) | Cleaned Weibo conversations (6.82M dialogues) | 80% |
 | [SkyPile-150B](https://github.com/SkyworkAI/SkyPile) (subset) | High-quality Chinese web text (1.71M documents) | 20% |
 
-Preprocessing scripts are available in the `scripts/` directory. For a detailed description of the data pipeline, see Section 3 of the [Technical Report](TECHNICAL_REPORT.md).
+Preprocessing scripts are available in the `scripts/` directory. For a detailed description of the data pipeline, see Section 3 of the [Technical Report](TECHNICAL_REPORT.docx).
 
 ### 3. Train the Tokenizer
 
@@ -105,7 +105,7 @@ Commands:
 | `best_model.pt` | ~180 MB | Best model weights (47M params, val loss 4.14) |
 | `my_tokenizer.model` / `.vocab` | ~1 MB | BPE tokenizer (vocab 32,000) |
 
-> Download from [Releases](https://github.com/comreade-123/Sui-Ai/releases) or via cloud drive (link in Release notes).
+> Pre-trained weights will be available in [Releases](https://github.com/comreade-123/Sui-Ai/releases) soon.
 
 ---
 
