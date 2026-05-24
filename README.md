@@ -127,7 +127,7 @@ If you find our project helpful and use the code or model from this project, ple
 
 ```bibtex
 @misc{sui2026,
-  author = {YQS2c and wojia-1110},
+  author = {comreade-123 and wojia-1110},
   title = {Sui: A 47M-Parameter Chinese Conversational Model Trained from Scratch},
   year = {2026},
   url = {https://github.com/comreade-123/Sui-Ai}
@@ -140,7 +140,7 @@ If you find our project helpful and use the code or model from this project, ple
 ---
 
 ##  Contributors
-- [YQS2c] – Lead developer, model architecture, training, data pipeline
+- [comreade-123] – Lead developer, model architecture, training, data pipeline
 - [wojia-1110] – Data provided, Data preprocessing, evaluation, documentation
 
 ---
