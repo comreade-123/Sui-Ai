@@ -100,12 +100,10 @@ Commands:
 - `/memory` — `Display` stored user facts
 ##  Pretrained Weights
 
-| File | Size | Description |
-|------|------|-------------|
-| `best_model.pt` | ~180 MB | Best model weights (47M params, val loss 4.14) |
-| `my_tokenizer.model` / `.vocab` | ~1 MB | BPE tokenizer (vocab 32,000) |
+Model weights (`best_model.pt`, ~180 MB) are **not publicly released** at this time.  
+The code, configuration files, tokenizer, and training scripts provided in this repository contain everything needed to reproduce the results from scratch.  
 
-> Pre-trained weights will be available in [Releases](https://github.com/comreade-123/Sui-Ai/releases) soon.
+If you are interested in the trained weights, feel free to contact the authors.
 
 ---
 
