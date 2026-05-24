@@ -127,7 +127,7 @@ If you use this project's code or model, please cite:
 
 ```bibtex
 @misc{sui2026,
-  author = {Your Name},
+  author = {YQS2c},
   title = {Sui: A 47M-Parameter Chinese Conversational Model Trained from Scratch},
   year = {2026},
   url = {https://github.com/comreade-123/Sui-Ai}
