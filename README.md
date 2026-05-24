@@ -66,7 +66,7 @@ mini-llm/
 ```bash
 pip install -r requirements.txt
 ```
-## 2. Download Training Data
+### 2. Download Training Data
 
 Sui was trained on a mixture of two public datasets:
 
