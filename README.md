@@ -50,8 +50,7 @@ mini-llm/
 ├── LICENSE # MIT License (for code)
 ├── LICENSE-MODEL # CC BY-NC 4.0 (for model weights)
 ├── .gitignore
-├── images/ # Images for documentation
-└── scripts/ # (Optional) data preprocessing scripts
+└── images/ # Images for documentation
 ```
 
 ---
